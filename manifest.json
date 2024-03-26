@@ -1,6 +1,6 @@
 {
-    "name": "blingforweb",
-    "short_name": "blingforweb",
+    "name": "ptp",
+    "short_name": "ptp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
