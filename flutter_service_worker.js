@@ -37,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "624824a4378aa9c8c2c287ab60cf0564
 "assets/assets/images/__tempImg.jpg": "4aa93a85b2bd11967e3eeb1a090fa7a1",
 "assets/FontManifest.json": "03230d7e573b42c033c182e0f07ede0a",
 "assets/fonts/Bling.ttf": "83ea7ed6fd190f47bfc822e40d58a025",
-"assets/fonts/MaterialIcons-Regular.otf": "6ef1475cff0197502c54958caf604689",
+"assets/fonts/MaterialIcons-Regular.otf": "36d5c9d47f6b0b0dc488e183f86780f0",
 "assets/NOTICES": "6624dbc232878bb6a860ceb5755c2021",
 "assets/packages/amplify_authenticator/assets/social-buttons/google.png": "a1e1d65465c69a65f8d01226ff5237ec",
 "assets/packages/amplify_authenticator/assets/social-buttons/SocialIcons.ttf": "1566e823935d5fe33901f5a074480a20",
@@ -69,9 +69,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "624824a4378aa9c8c2c287ab60cf0564
 "icons/Icon-512.png": "d37937f0a2e22789d53f89160483da41",
 "icons/Icon-maskable-192.png": "4a2c12c83072dcb4369a425488739659",
 "icons/Icon-maskable-512.png": "a6c2933132d8373b85132e15d9aec9b8",
-"index.html": "e8b079eb3bb8e1169d4e8d1f96840527",
-"/": "e8b079eb3bb8e1169d4e8d1f96840527",
-"main.dart.js": "10e1b4df0c03659bccfdafca01728ed2",
+"index.html": "d471eeff6ad256908b3f368b330d2068",
+"/": "d471eeff6ad256908b3f368b330d2068",
+"main.dart.js": "25764bd6db8fd2a5dfb57f6008ae1012",
 "manifest.json": "38fc7b717516780f8bae8f1a57bb29db",
 "version.json": "94a0c71fcd45c0aeca6c2957e81ca27e"};
 // The application shell files that are downloaded before a service worker can
