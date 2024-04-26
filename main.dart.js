@@ -75588,7 +75588,7 @@ A.bs5(this.a,"/bling_login",s,s)},
 $S:5}
 A.Dj.prototype={
 O(a){var s=null,r=t.l
-return A.hk(s,s,A.fW(B.b_,A.a([A.DB(0,A.hD("assets/images/splashBackground.png",B.C,B.ds,s,s)),A.cM(new A.ae(A.aL(a,s,r).w.a.a*0.25,A.aL(a,s,r).w.a.b*0.25,A.hD("assets/images/temp2.png",B.C,B.bo,s,s),s),s,s,s)],t.p),B.T,B.aV,s),s)}}
+return A.hk(s,s,A.fW(B.b_,A.a([A.DB(0,A.hD("assets/images/splashBackgroundVer2.png",B.C,B.ds,s,s)),A.cM(new A.ae(A.aL(a,s,r).w.a.a*0.25,A.aL(a,s,r).w.a.b*0.25,A.hD("assets/images/temp2.png",B.C,B.bo,s,s),s),s,s,s)],t.p),B.T,B.aV,s),s)}}
 A.BD.prototype={
 ac(){var s=A.a([],t.s),r=$.b7()
 return new A.apZ(s,new A.ez(B.ay,r),new A.ez(B.ay,r),new A.ez(B.ay,r),new A.ez(B.ay,r),B.k)}}
